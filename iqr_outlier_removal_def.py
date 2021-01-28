@@ -1,3 +1,4 @@
+# IQR FOR BOXFLOT
 # 하나의 데이터프레임에서 그룹이 2개 이상 존재할 경우 사용
 
 def removeOutlier(df, column):
